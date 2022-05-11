@@ -21,7 +21,18 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-<p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/boim212/Skuy-Replay/main/public/img/logo.jpg" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/boim212/Skuy-Replay/main/public/img/logo.jpg" width="200"></a></p>
+
+## Equipment for edit this app
+- <a href="https://git-scm.com/downloads" target="_blank">Git Bash</a>
+- <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code (VScode) </a>
+- <a href="https://laravel.com/docs/8.x" target="_blank">Laravel 8 </a>
+
+## Features of this app
+- Administrator features for data manipulation.
+- Features for Guest to view and enjoy the data displayed.
+- Features and login for admin users.
+- Forgot password feature with authentication, send email to admin users who need it.
 
 ## How to get this app from my repo
 - open your git bash.
