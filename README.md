@@ -21,6 +21,17 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## How to get this app from my repo
+- open your git bash.
+- copy this commamnd "git clone https://github.com/boim212/Skuy-Replay.git".
+- and enter.
+
+## How to use this app
+- change file (env.txt) to (.env).
+- open this file.
+- edit from your name databases.
+- until when you want use forget-password features you can edit on part address email until your password app from email.
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
