@@ -32,7 +32,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - Template user admins use from <a href="https://getbootstrap.com" target="_blank">Bootstrap v4.0.0</a>
 - Icons From <a href="https://fontawesome.com" target="_blank">Font Awesome Free 5.3.1</a>
 - All session used from <a href="https://sweetalert2.github.io/" target="_blank">Sweetalert2</a>
--  by @fontawesome - 
 
 ## Features of this app
 - Administrator features for data manipulation.
