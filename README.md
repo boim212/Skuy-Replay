@@ -28,6 +28,12 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code (VScode) </a>
 - <a href="https://laravel.com/docs/8.x" target="_blank">Laravel 8 </a>
 
+## Asset Front-End
+- Template user admins use from <a href="https://getbootstrap.com" target="_blank">Bootstrap v4.0.0</a>
+- Icons From <a href="https://fontawesome.com" target="_blank">Font Awesome Free 5.3.1</a>
+- All session used from <a href="https://sweetalert2.github.io/" target="_blank">Sweetalert2</a>
+-  by @fontawesome - 
+
 ## Features of this app
 - Administrator features for data manipulation.
 - Features for Guest to view and enjoy the data displayed.
@@ -35,9 +41,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - Forgot password feature with authentication, send email to admin users who need it.
 
 ## How to get this app from my repo
-- open your git bash.
-- copy this commamnd "git clone https://github.com/boim212/Skuy-Replay.git".
-- and enter.
+- Click star for this repo.   Thank You :)
+- Open your git bash.
+- Copy this commamnd "git clone https://github.com/boim212/Skuy-Replay.git".
+- And enter.
 
 ## How to use this app
 - change file (env.txt) to (.env).
