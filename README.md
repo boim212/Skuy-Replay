@@ -21,6 +21,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+<p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/boim212/Skuy-Replay/main/public/img/logo.jpg" width="400"></a></p>
+
 ## How to get this app from my repo
 - open your git bash.
 - copy this commamnd "git clone https://github.com/boim212/Skuy-Replay.git".
